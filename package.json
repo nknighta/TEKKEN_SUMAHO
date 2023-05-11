@@ -1,0 +1,24 @@
+{
+  "name": "renponse_element",
+  "version": "0.6.21",
+  "main": "index.js",
+  "author": "nknight amamiya <nknight.works@variussoftware.com> ",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/next": "^9.0.0",
+    "@types/node": "^20.1.2",
+    "@types/react": "^18.2.6",
+    "framer-motion": "^10.12.10",
+    "next": "^13.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "5.0.4"
+  }
+}
